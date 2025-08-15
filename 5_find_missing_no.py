@@ -1,3 +1,5 @@
+#find missing number in a given array of 1 to n
+# where one number is missing
 a = [1,2,4,5,6,7,8,9,10]
 
 def find_missing_number(arr):
